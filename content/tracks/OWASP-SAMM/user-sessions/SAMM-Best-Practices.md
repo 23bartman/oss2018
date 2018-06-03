@@ -15,10 +15,10 @@ session_slack: https://os-summit.slack.com/messages/CAX0FLQ9E
 status       : review-content              # draft, review-content, done
 description  : User session on how to use Owasp SAMM
 organizers   :
-    - Sebastien Deleersnyder
+    - Sebastien Deleersnyder, Bart De Win
 participants:
     - Yan Kravchenko
     - Mark-David McLaughlin
 ---
 
-Sharing best practices on how to get the most out of Owasp SAMM
+Sharing best practices on how to get the most out of Owasp SAMM. We will touch upon determining the scope, organizing the assessment, scoring the practices, communicating the results, etc.
