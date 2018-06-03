@@ -19,4 +19,4 @@ participants:
 
 ---
 
-Crash course on SAMM as project and overview of the content/actions so far
+Crash course on SAMM as project and overview of the content/actions so far. We'll touch upon history of the project and the current status (in going towards version 2.0). We'll also discuss the program for this week.
